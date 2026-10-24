@@ -1,0 +1,12 @@
+.app-container {
+  min-height: 100vh;
+  text-align: center;
+  background-color: #030712;
+  color: #f3f4f6;
+}
+
+.app-sticky-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}

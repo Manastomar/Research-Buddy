@@ -1,0 +1,7 @@
+Flask
+flask-cors
+google-genai
+python-dotenv
+pyodbc
+cryptography
+nltk
